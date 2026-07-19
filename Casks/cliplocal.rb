@@ -1,6 +1,6 @@
 cask "cliplocal" do
-  version "1.0.6"
-  sha256 "a7947cd885d7869daeeaecdfd385039a90e089a4ef971ad828ada6c631bd842c" # Make sure to put the actual shasum output here!
+  version "1.0.61"
+  sha256 "745bb2af39674c576338dfecfc97032bc197ddea150d15ec32dba052c90a093a" # Make sure to put the actual shasum output here!
 
   url "https://github.com/arunofhyd/ClipLocal/releases/download/v#{version}/ClipLocal.zip"
   name "ClipLocal"
